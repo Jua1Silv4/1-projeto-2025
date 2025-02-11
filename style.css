@@ -3,7 +3,7 @@ img {
 }
 
 .cabecalho {
-    width: 200px;
+    width: 1000px;
     height: 100px;
     background-color: red;
 
@@ -11,7 +11,7 @@ img {
 
 .primeirasecao {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
     width: 1000px;
     height: 500px;
