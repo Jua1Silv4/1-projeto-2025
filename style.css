@@ -12,6 +12,11 @@ img {
 .primeirasecao {
     width: 1000px;
     height: 500px;
-    background-color: rgb(red, green, blue);
+    background-color: blue;
 
+}
+.divisao{
+    width: 200px;
+    height: 200px;
+    background-color: green;
 }
